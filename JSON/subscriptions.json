@@ -1,0 +1,94 @@
+{
+    "dukkan1" : 
+    {        
+        "elektrik" : 
+        {
+            "abone_numarasi" : "",
+            "saat_numarasi" : "",
+            "odenme_durumu" : ""
+        },
+
+        "su" : 
+        {
+            "abone_numarasi" : "",
+            "saat_numarasi" : "",
+            "odenme_durumu" : ""
+        },
+
+        "dogalgaz" : 
+        {
+            "abone_numarasi" : "",
+            "saat_numarasi" : "",
+            "odenme_durumu" : ""
+        },
+
+        "internet" : 
+        {
+            "abone_numarasi" : "",
+            "saat_numarasi" : "",
+            "odenme_durumu" : ""
+        }
+    },
+
+    "dukkan2" : 
+    {
+        "elektrik" : 
+        {
+            "abone_numarasi" : "",
+            "saat_numarasi" : "",
+            "odenme_durumu" : ""
+        },
+
+        "su" : 
+        {
+            "abone_numarasi" : "",
+            "saat_numarasi" : "",
+            "odenme_durumu" : ""
+        },
+
+        "dogalgaz" : 
+        {
+            "abone_numarasi" : "",
+            "saat_numarasi" : "",
+            "odenme_durumu" : ""
+        },
+
+        "internet" : 
+        {
+            "abone_numarasi" : "",
+            "saat_numarasi" : "",
+            "odenme_durumu" : ""
+        }
+    },
+
+    "dukkan3" : 
+    {
+        "elektrik" : 
+        {
+            "abone_numarasi" : "",
+            "saat_numarasi" : "",
+            "odenme_durumu" : ""
+        },
+
+        "su" : 
+        {
+            "abone_numarasi" : "",
+            "saat_numarasi" : "",
+            "odenme_durumu" : ""
+        },
+
+        "dogalgaz" : 
+        {
+            "abone_numarasi" : "",
+            "saat_numarasi" : "",
+            "odenme_durumu" : ""
+        },
+
+        "internet" : 
+        {
+            "abone_numarasi" : "",
+            "saat_numarasi" : "",
+            "odenme_durumu" : ""
+        }
+    }
+}
